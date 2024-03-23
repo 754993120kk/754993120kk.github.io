@@ -1,0 +1,26 @@
+.con{
+    background-image: url('../mag/bg1.webp'); 
+    background-repeat: no-repeat;
+    background-size: 170%;
+    height: 690px;
+    width: 1500px;
+    background-color: red;
+}
+.box{
+    background-color: rgba(228, 228, 236, 0.81);
+    height: 600px;
+    width: 1200px;
+    margin-left: 150px;
+    border: 10px solid rgba(50, 220, 178, 0.6);
+    border-radius: 150px;
+}
+.cot{
+    margin-top: 30px;
+    margin-left: 30px;
+    font-size: 15px;
+    line-height: 36px;
+    background-color: rgba(255, 255, 255, 0.33);
+    border: 10px solid rgba(0, 179, 255, 0.228);
+    border-radius: 30px;
+    margin-right: 30px;
+}
